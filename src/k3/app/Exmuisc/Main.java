@@ -40,6 +40,7 @@ import android.widget.TextView;
 
 //test
 //やったね！！！!
+// ぶへへへへぇ
 public class Main extends Activity implements Runnable , ServiceConnection{
 	
 	//定数
