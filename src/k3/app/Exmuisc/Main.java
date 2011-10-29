@@ -38,6 +38,7 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 
+//海藤！！
 //test
 //やったね！！！!
 // ぶへへへへぇ
