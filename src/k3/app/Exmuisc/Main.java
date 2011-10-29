@@ -40,7 +40,7 @@ import android.widget.TextView;
 
 
 public class Main extends Activity implements Runnable , ServiceConnection{
-	
+//aaaa	
 	//定数
     private final static int REPEAT_INTERVAL = 500;	
     private final static String rootPath = "mnt/sdcard/music/music";
