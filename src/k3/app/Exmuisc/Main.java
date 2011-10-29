@@ -38,6 +38,7 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 
+//test
 //やったね！！！!
 public class Main extends Activity implements Runnable , ServiceConnection{
 	
