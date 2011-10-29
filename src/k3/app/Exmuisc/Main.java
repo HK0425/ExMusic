@@ -38,7 +38,7 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 
-//やったね！！
+//やったね！！！
 public class Main extends Activity implements Runnable , ServiceConnection{
 	
 	//定数
